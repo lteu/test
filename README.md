@@ -20,17 +20,17 @@
 
 | 序号 |模块  |说明 |页面详情 |
 | --- | --- | --- | --- |
-|1 | 数据检索 |四维地球在线体验系统中按需求做好筛选，检索结果列表中展示日新图产品影像的日期及卫星源、分辨率，要求购买区域不小于25平方公里，区域和范围覆盖率不小于100%，点击【发起订单】，再选择需要购买的影像，点【确认】，提交订单。||
-| 2 | 产品说明提示确认 | 确认购买信息后，会弹出该产品说明提示，请阅读产品说明详情，之后在下方点击【同意并确认】，最后点击【开始购买】。 | ![alt text](https://github.com/lteu/test/blob/main/image/1.jpeg)|
-| 3 | 发起订单确认 |自定义【影像名称】，确认【影像列表】、【订单处理】、【订单信息】三项信息，确认无误后点击【提交订单】。 | ![4b9dbabae2c2b37d1a6e49c3b0e1a839.png](evernotecid://BD0AAE4E-DB3D-4D30-9E67-CF2C1B49F8AE/appyinxiangcom/22703985/ENResource/p166)|
-|  4| 订单详情确认|需再次确认【订单信息】、【影像信息】，如果有对应的销售，可填写【订单销售码】，非必填。|![4b9dbabae2c2b37d1a6e49c3b0e1a839.png](evernotecid://BD0AAE4E-DB3D-4D30-9E67-CF2C1B49F8AE/appyinxiangcom/22703985/ENResource/p166)|
-|  5| 支付订单|点击【立即支付】弹出支付页面，可使用【微信】或【支付宝】扫码页面二维码支付。（收费标准：根据购买区域范围及分辨率收费，25km²起订，最高不超过3000km²；分辨率则分为0.8米和2米）|![09441953c94cbc48f32de81cdb05b2da.png](evernotecid://BD0AAE4E-DB3D-4D30-9E67-CF2C1B49F8AE/appyinxiangcom/22703985/ENResource/p169) ![f411d6a386e3c8040300814c630bab47.png](evernotecid://BD0AAE4E-DB3D-4D30-9E67-CF2C1B49F8AE/appyinxiangcom/22703985/ENResource/p170)|
+|1 | 数据检索 |四维地球在线体验系统中按需求做好筛选，检索结果列表中展示日新图产品影像的日期及卫星源、分辨率，要求购买区域不小于25平方公里，区域和范围覆盖率不小于100%，点击【发起订单】，再选择需要购买的影像，点【确认】，提交订单。|![pic1](https://github.com/lteu/test/blob/main/image/1.jpeg)|
+| 2 | 产品说明提示确认 | 确认购买信息后，会弹出该产品说明提示，请阅读产品说明详情，之后在下方点击【同意并确认】，最后点击【开始购买】。 | ![pic2](https://github.com/lteu/test/blob/main/image/图片2.jpeg)|
+| 3 | 发起订单确认 |自定义【影像名称】，确认【影像列表】、【订单处理】、【订单信息】三项信息，确认无误后点击【提交订单】。 | ![pic2](https://github.com/lteu/test/blob/main/image/图片3.jpeg)|
+|  4| 订单详情确认|需再次确认【订单信息】、【影像信息】，如果有对应的销售，可填写【订单销售码】，非必填。|![pic2](https://github.com/lteu/test/blob/main/image/图片4.jpeg)|
+|  5| 支付订单|点击【立即支付】弹出支付页面，可使用【微信】或【支付宝】扫码页面二维码支付。（收费标准：根据购买区域范围及分辨率收费，25km²起订，最高不超过3000km²；分辨率则分为0.8米和2米）|![pic2](https://github.com/lteu/test/blob/main/image/图片5.jpeg) ![pic2](https://github.com/lteu/test/blob/main/image/图片6.jpeg)|
 
 ### 1.2包年包月/流量服务购买操作流程：
 
 | 序号 |模块  | 说明 | 详情 |
 | --- | --- | --- | --- |
-| 1 | 日新图入口 | 在四维地球在线体验系统将右下角缩放级别放大到14级，右上角弹出【购买日新图服务】点击阅读产品说明，点击【开始购买】即可跳转到详情页面点击【包年包月】。 |![4fd308cad0c9196f480082cd6036ad0e.png](evernotecid://BD0AAE4E-DB3D-4D30-9E67-CF2C1B49F8AE/appyinxiangcom/22703985/ENResource/p173)![75676b7a4c35f034d01167e28f9cf143.png](evernotecid://BD0AAE4E-DB3D-4D30-9E67-CF2C1B49F8AE/appyinxiangcom/22703985/ENResource/p172)|
+| 1 | 日新图入口 | 在四维地球在线体验系统将右下角缩放级别放大到14级，右上角弹出【购买日新图服务】点击阅读产品说明，点击【开始购买】即可跳转到详情页面点击【包年包月】。 |![pic2](https://github.com/lteu/test/blob/main/image/图片7.jpeg)![pic2](https://github.com/lteu/test/blob/main/image/图片8.jpeg)|
 | 2 | 包年包月购买详情 | 根据个人需求，选定购买区域，支持按行政区域购买和自定义区域购买，支持在我的数据中自行上传ROI区域（面积小于1万平方公里，范围多边形边数小于200个），【生效日期】按需求选择。【区域面积】默认所选择区域自动计算。【并发量】默认300并发/分钟。【有效期】默认1年。【订单销售合同】：需阅读并同意签署。 | ![049dfd5c49ac214669d97a9f3a614b4b.png](evernotecid://BD0AAE4E-DB3D-4D30-9E67-CF2C1B49F8AE/appyinxiangcom/22703985/ENResource/p174)|
 | 3 | 流量服务购买详情 | 点击【购买流量服务】。【生效日期】按需求选择。【并发量】默认300并发/分钟。【流量】50W，300W，800W,1500W按需选择。（收费标准：50万次/1万元，300万次/5.4万元，800万次/12.8万元，1500万次21万元，当前为5折) | ![688bddb3835b2c684fb7441eaa00f044.png](evernotecid://BD0AAE4E-DB3D-4D30-9E67-CF2C1B49F8AE/appyinxiangcom/22703985/ENResource/p175)|
 | 4 | 支付订单 | 点击【立即支付】弹出支付页面，可使用【微信】或【支付宝】扫码页面二维码支付。（收费标准：【企事业单位】县级行政区域4999/年，市级行政区域15999/年。【个人用户】自定义区域12元/平方公/年，注：区域面积最低不低于10平方公里。） | ![483662740775f6a765731a0dcf9a3d12.png](evernotecid://BD0AAE4E-DB3D-4D30-9E67-CF2C1B49F8AE/appyinxiangcom/22703985/ENResource/p176)![6efe9f4131e1ba7496cfd7ee54f29599.png](evernotecid://BD0AAE4E-DB3D-4D30-9E67-CF2
