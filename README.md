@@ -31,7 +31,7 @@
 | 序号 |模块  | 说明 | 详情 |
 | --- | --- | --- | --- |
 | 1 | 日新图入口 | 在四维地球在线体验系统将右下角缩放级别放大到14级，右上角弹出【购买日新图服务】点击阅读产品说明，点击【开始购买】即可跳转到详情页面点击【包年包月】。 |![pic2](https://github.com/lteu/test/blob/main/image/图片7.png)![pic2](https://github.com/lteu/test/blob/main/image/图片8.png)|
-| 2 | 包年包月购买详情 | 根据个人需求，选定购买区域，支持按行政区域购买和自定义区域购买，支持在我的数据中自行上传ROI区域（面积小于1万平方公里，范围多边形边数小于200个），【生效日期】按需求选择。【区域面积】默认所选择区域自动计算。【并发量】默认300并发/分钟。【有效期】默认1年。【订单销售合同】：需阅读并同意签署。 | ![049dfd5c49ac214669d97a9f3a614b4b.png]![pic2](https://github.com/lteu/test/blob/main/image/图片9.png)||
+| 2 | 包年包月购买详情 | 根据个人需求，选定购买区域，支持按行政区域购买和自定义区域购买，支持在我的数据中自行上传ROI区域（面积小于1万平方公里，范围多边形边数小于200个），【生效日期】按需求选择。【区域面积】默认所选择区域自动计算。【并发量】默认300并发/分钟。【有效期】默认1年。【订单销售合同】：需阅读并同意签署。 |![pic2](https://github.com/lteu/test/blob/main/image/图片9.png)||
 | 3 | 流量服务购买详情 | 点击【购买流量服务】。【生效日期】按需求选择。【并发量】默认300并发/分钟。【流量】50W，300W，800W,1500W按需选择。（收费标准：50万次/1万元，300万次/5.4万元，800万次/12.8万元，1500万次21万元，当前为5折) | ![pic2](https://github.com/lteu/test/blob/main/image/图片10.png)|
 | 4 | 支付订单 | 点击【立即支付】弹出支付页面，可使用【微信】或【支付宝】扫码页面二维码支付。（收费标准：【企事业单位】县级行政区域4999/年，市级行政区域15999/年。【个人用户】自定义区域12元/平方公/年，注：区域面积最低不低于10平方公里。） | ![pic2](https://github.com/lteu/test/blob/main/image/图片11.png)![pic2](https://github.com/lteu/test/blob/main/image/图片12.png)|
 
@@ -40,6 +40,6 @@
 
 |模块  |说明  | 详情 |
 | --- | --- | --- |
-| 进入位置 | 主页右上角，点击头像进入个人中心。 | ![pic2](https://github.com/lteu/test/blob/main/image/图片13.png)||
-| TIFF图订单查看 | 点击【订单管理】，订单状态默认【全部】，【状态】显示为“已完成”为购买成功。【查看详情】可查看订单详情信息。 | ![pic2](https://github.com/lteu/test/blob/main/image/图片14.png)|![pic2](https://github.com/lteu/test/blob/main/image/图片15.png)||
-| 日新图浏览购买订单查看 | 点击【配额管理】，进入【额度管理】点击购买记录，查看，即可查看所有按流量收费以及按区域包年包月模式收费的购买记录。【申请售后服务】如对该订单有异议，可直接联系运维人员或点击提交问题反馈【工单】。 | ![pic2](https://github.com/lteu/test/blob/main/image/图片16.png)|![pic2](https://github.com/lteu/test/blob/main/image/图片17.png)||
+| 进入位置 | 主页右上角，点击头像进入个人中心。 | ![pic2](https://github.com/lteu/test/blob/main/image/图片13.png)|
+| TIFF图订单查看 | 点击【订单管理】，订单状态默认【全部】，【状态】显示为“已完成”为购买成功。【查看详情】可查看订单详情信息。 | ![pic2](https://github.com/lteu/test/blob/main/image/图片14.png)|![pic2](https://github.com/lteu/test/blob/main/image/图片15.png)|
+| 日新图浏览购买订单查看 | 点击【配额管理】，进入【额度管理】点击购买记录，查看，即可查看所有按流量收费以及按区域包年包月模式收费的购买记录。【申请售后服务】如对该订单有异议，可直接联系运维人员或点击提交问题反馈【工单】。 | ![pic2](https://github.com/lteu/test/blob/main/image/图片16.png)|![pic2](https://github.com/lteu/test/blob/main/image/图片17.png)|
