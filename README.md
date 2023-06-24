@@ -41,5 +41,5 @@
 |模块  |说明  | 详情 |
 | --- | --- | --- |
 | 进入位置 | 主页右上角，点击头像进入个人中心。 | ![pic2](https://github.com/lteu/test/blob/main/image/图片13.png)|
-| TIFF图订单查看 | 点击【订单管理】，订单状态默认【全部】，【状态】显示为“已完成”为购买成功。【查看详情】可查看订单详情信息。 | ![pic2](https://github.com/lteu/test/blob/main/image/图片14.png)|![pic2](https://github.com/lteu/test/blob/main/image/图片15.png)|
-| 日新图浏览购买订单查看 | 点击【配额管理】，进入【额度管理】点击购买记录，查看，即可查看所有按流量收费以及按区域包年包月模式收费的购买记录。【申请售后服务】如对该订单有异议，可直接联系运维人员或点击提交问题反馈【工单】。 | ![pic2](https://github.com/lteu/test/blob/main/image/图片16.png)|![pic2](https://github.com/lteu/test/blob/main/image/图片17.png)|
+| TIFF图订单查看 | 点击【订单管理】，订单状态默认【全部】，【状态】显示为“已完成”为购买成功。【查看详情】可查看订单详情信息。 | ![pic2](https://github.com/lteu/test/blob/main/image/图片14.png)![pic2](https://github.com/lteu/test/blob/main/image/图片15.png)|
+| 日新图浏览购买订单查看 | 点击【配额管理】，进入【额度管理】点击购买记录，查看，即可查看所有按流量收费以及按区域包年包月模式收费的购买记录。【申请售后服务】如对该订单有异议，可直接联系运维人员或点击提交问题反馈【工单】。 | ![pic2](https://github.com/lteu/test/blob/main/image/图片16.png)![pic2](https://github.com/lteu/test/blob/main/image/图片17.png)|
